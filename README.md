@@ -11,6 +11,11 @@ After trying one or two of the other projects, I decided to that I wanted to hav
 One final thing that separates this from other projects is the fact that it was all done and created using programs off of a thumbdrive. This was done in part to show that you can make things from almost anywhere, even without having administrator priviliges on the computer!<br />
 
 ## 
+### Files
+[Clock_white_sitting.py](https://github.com/dbmitch84/Custom_Python_Clock_-_Date_and_Time/blob/main/Clock_white_sitting.py): Code file.<br />
+[futurama_audience_500x287.png](https://github.com/dbmitch84/Custom_Python_Clock_-_Date_and_Time/blob/main/futurama_audience_500x287.png): Picture used as background.<br />
+[futurama_audience_500x287_PZh_icon.ico](https://github.com/dbmitch84/Custom_Python_Clock_-_Date_and_Time/blob/main/futurama_audience_500x287_PZh_icon.ico): Icon file.<br />
+## 
 ### Special Thanks
 [Yasuharu Okamoto](http://y-okamoto-psy1949.la.coocan.jp/Python/en1/DigitalClock/): Where I copied the original code from.<br />  
 
