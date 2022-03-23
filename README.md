@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54961082/159799467-beb3caa5-e429-48c1-a461-425e41894f12.PNG"/>
+</p>
+
 # Custom_Python_Clock_-_Date_and_Time
 ## 
 ### This Repository's Purpose
