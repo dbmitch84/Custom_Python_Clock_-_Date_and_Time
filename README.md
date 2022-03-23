@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54961082/159799467-beb3caa5-e429-48c1-a461-425e41894f12.PNG"/>
 </p>
+<h1 align="center">
+  Custom_Python_Clock_-_Date_and_Time
+</h1>
 
-# Custom_Python_Clock_-_Date_and_Time
-## 
 ### This Repository's Purpose
 This is a little project that I decided to try to do.  It lets you create a custom digital clock to keep somewhere on your screen with the date and time. Unlike other similar projects designed to help you learn Python, this one gives you the ability to change the background to whatever you want.<br />
 After trying one or two of the other projects, I decided to that I wanted to have a fun background on my clock so it wasn’t so boring. The hard part was trying to figure out how to have the background without the text’s frames blocking it (similar to the annoying white box you get when you add pictures to something). The final part was figuring out how to get the whole thing to run as an executable file with the picture in it. I was eventually able to figure out how to do just that thanks to auto-py-to-exe. That’ll be a separate posting.<br />
@@ -14,8 +15,8 @@ One final thing that separates this from other projects is the fact that it was 
 [Yasuharu Okamoto](http://y-okamoto-psy1949.la.coocan.jp/Python/en1/DigitalClock/): Where I copied the original code from.<br />  
 
 ## 
-### Used
-**Programs:**<br />
+### Programs Used
 [Portable Python 3](https://www.python.org/downloads/): Written in the Python language.<br />
 [Portable Notepad++](https://portableapps.com/apps/development/notepadpp_portable): Used to write, edit, and test the program.<br />
 [Portable Git for Windows](https://git-scm.com/download/win): Used to install any dependencies needed.<br />
+[auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/): Used to turn the program its components into a single executable file that can be opened and ran on any Windows comptuer, without the need to install dependencies.<br />
