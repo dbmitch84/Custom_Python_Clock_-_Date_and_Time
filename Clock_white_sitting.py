@@ -30,7 +30,7 @@ daCanvas.create_image( 0, 0, image = bgImage, anchor = "nw")
 #Sets Frame up for Text, This geometry manager organizes widgets in blocks before placing them in the parent widget.
 frame.pack()
 #.create_text(x,y, options...); justify= LEFT, RIGHT, or CENTER; fill='Text's Color', tags='mytext' is what will be used to call this later
-daCanvas.create_text(150, 150, justify=LEFT,text = ' ', fill='#000000',  font = ('ds-digital', 50), tags = 'mytext')
+daCanvas.create_text(150, 150, justify=LEFT,text = ' ', fill='#000000',  font = ('ds-digital', 50), tags = 'mytext') #OPTIONAL after the font size (50 in this instance) add a comma ( , ) and 'bold' for boldface or 'italic' for italic
 
 #Creates a function for displaying and checking the time
 def check_time():
